@@ -1,4 +1,4 @@
-import random
+import random 
 
 number = random.randint(1, 100)
 count = 0 
@@ -12,4 +12,4 @@ while True:
     elif guess < number:
         print("Your guess is lesser than the number.")
     else:
-        print("you fount the correct answeer is",count, "🥳Correct!")
+        print("you fount the correct answeer is",count, "🥳Correct!,Amasing")
